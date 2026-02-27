@@ -39,7 +39,7 @@ This project analyzes 2020 transactional data from a major e-commerce retailer t
 
 ### Data Loading
 
-- Imported csv into python using pandas
+- Imported CSV data using Pandas.
 
 ### 1. Data Cleaning
 
@@ -60,7 +60,7 @@ This project analyzes 2020 transactional data from a major e-commerce retailer t
 
 - Created tables to compare monthly performance and analyze seasonal trends.
 - Created tables to identify best-selling and highest-revenue products, brands, and categories.
-- Combined temporal and categorical breakdowns to provide multidimensional insights.l breakdown
+- Combined temporal and categorical to provide multidimensional insights.l breakdown
 
 ### 4. Data Visualization
 
@@ -94,9 +94,19 @@ Built an interactive Looker Studio dashboard to visualize:
 
 ## 🛠️ Tools Used
 
-Python (Pandas, NumPy,Matplotlib,Seaborn)
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 Looker Studio
 Git & GitHub
+## 📂 Project Structure
+
+E-commerce-sales-analysis-2020/
+│
+├── data/                  # Cleaned dataset (excluded from GitHub)
+├── e-commerce_analysis.ipynb
+├── looker_studio_data/    # Aggregated tables for dashboard
+├── dashboard/             # Dashboard screenshot
+├── requirements.txt
+└── README.md
 
 ## 👤 Author
 Abdelhak Morhlia
