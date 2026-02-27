@@ -102,10 +102,15 @@ Git & GitHub
 E-commerce-sales-analysis-2020/
 │
 ├── data/                  # Cleaned dataset (excluded from GitHub)
+
 ├── e-commerce_analysis.ipynb
+
 ├── looker_studio_data/    # Aggregated tables for dashboard
+
 ├── dashboard/             # Dashboard screenshot
+
 ├── requirements.txt
+
 └── README.md
 
 ## 👤 Author
