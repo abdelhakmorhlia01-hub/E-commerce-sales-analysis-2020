@@ -27,12 +27,19 @@ This project analyzes 2020 transactional data from a major e-commerce retailer t
     Column              Description 
 
  `event_time`        Timestamp of the transaction 
+ 
  `order_id`          Unique order identifier 
+ 
  `product_id`        Unique product identifier 
+ 
  `category_id`       Product category ID 
+
  `category_code`     Product category code 
+ 
  `brand`             Product brand name 
+ 
  `price`             Product price (currency units) 
+ 
  `user_id`           User identifier 
 
 ##  Data Workflow
@@ -101,6 +108,7 @@ Git & GitHub
 
 E-commerce-sales-analysis-2020/
 │
+
 ├── data/                  # Cleaned dataset (excluded from GitHub)
 
 ├── e-commerce_analysis.ipynb
