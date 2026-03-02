@@ -90,7 +90,7 @@ Built an interactive Looker Studio dashboard to visualize:
 - Total Revenue: $350.6M USD
 - Average Order Value (AOV): $243.11
 - Average Products per Order: ~1.8 items
-- Busiest Month: August 2020 (highest number of orders)
+- Busiest Month: Jun 2020 (highest number of orders)
 - Top Brand: Samsung – 326K sales, $88M revenue
 - Premium Products: Electronics segment shows higher price points and revenue contribution
 - Top-Selling Product: Smartphone – 345.4K units sold, $101.9M revenue
